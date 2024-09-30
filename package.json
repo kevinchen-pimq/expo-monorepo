@@ -1,0 +1,10 @@
+{
+  "name": "expo-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kevinchen-pimq/expo-monorepo",
+  "author": "Kevin Chen <132868887+kevinchen-pimq@users.noreply.github.com>",
+  "license": "MIT",
+  "workspaces": ["apps/*", "packages/*"]
+}
